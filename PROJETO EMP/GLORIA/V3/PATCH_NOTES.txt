@@ -1,0 +1,6 @@
+ALTERAÇÕES:
+
+- TRATAMENTO DE ERROS DE TELAS:
+Verificação de outras telas promocionas entre ações,
+para evitar travamento e necessidade de presença humana constantemente.
+

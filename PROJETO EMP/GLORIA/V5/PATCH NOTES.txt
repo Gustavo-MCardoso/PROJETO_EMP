@@ -1,0 +1,1 @@
+Melhoria no método de fechar paginas

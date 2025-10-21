@@ -1,0 +1,9 @@
+ALTERAÇÕES:
+
+- ALTERADO MODO DE VARREDURA:
+Ao invés de procura por pixel foi alterado para varredura em tela,
+procurando imagem em tempo real.
+
+- REDUZIDO TIMER.
+
+- AUMENTO DE PRODUTIVIDADE.

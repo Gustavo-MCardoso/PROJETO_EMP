@@ -1,0 +1,7 @@
+Localiza o alvo
+Ataca com os comandantes certos
+Espera o cooldown e reinicia sempre no alvo valido.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Tratamentos de erros
+E fecha Pop-ups
